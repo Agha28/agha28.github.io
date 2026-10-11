@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Dristii. Start here"
+title: "Intro"
 date: 2026-10-18
 
 ---
